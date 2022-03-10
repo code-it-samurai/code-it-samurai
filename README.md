@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @code-it-samurai
-- 👀 I’m interested in python, java, and web development
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on web development and python projects
-- 📫 How to reach me prathameshtakane404@gmail.com
-
-<!---
-code-it-samurai/code-it-samurai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/Codeitsamurai"><img src="https://api.daily.dev/devcards/90d6a0d93e664935a4bfe0ee1da492ba.png?r=00k" width="400" alt="Prathamesh Takane's Dev Card"/></a>
